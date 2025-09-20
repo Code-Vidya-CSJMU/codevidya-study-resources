@@ -23,9 +23,8 @@ Our goal is to make learning **simple, structured, and accessible** for everyone
 ## 🌟 How to Use  
 1. Clone or download this repo  
    ```bash
-   git clone https://github.com/your-username/codevidya-notes-hub.git
+   git clone https://github.com/Code-Vidya-CSJMU/codevidya-study-resources.git
 
-   Explore folders based on your requirement
 
 Use, learn, and share knowledge with others
 

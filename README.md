@@ -1,4 +1,4 @@
-# 📚 Code Vidya – Notes & Cheat Sheets  
+# 📚 Code Vidya – Resources, Notes & Cheat Sheets  
 
 Welcome to the official repository of **Code Vidya**, the Coding Club of **Aatmoday Hobby Council, CSJM University**! 🚀  
 
